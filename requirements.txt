@@ -1,0 +1,10 @@
+
+
+ipython
+pylance 
+pytest
+pylance
+textblob
+wikipedia
+fire 
+black
